@@ -1,0 +1,8 @@
+ <svg viewBox="0 0 25 25" id="play-pause-icon" xmlns="http://www.w3.org/2000/svg" fill="#FFFFFF">
+                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                <g id="SVGRepo_iconCarrier">
+                    <!-- Removed the <rect> that provided the background -->
+                    <path id="play-shape" d="M0,10.15A10.15,10.15,0,1,1,10.15,20.3,10.15,10.15,0,0,1,0,10.15Zm1.56,0A8.59,8.59,0,1,0,10.15,1.56,8.59,8.59,0,0,0,1.56,10.15Zm5.94-3.32,7.24,3.32-7.24,3.32Z" fill="#a7a5a5c7"></path>
+                </g>
+            </svg>
